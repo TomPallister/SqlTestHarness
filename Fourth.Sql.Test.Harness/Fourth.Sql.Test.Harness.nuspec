@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Fourth.Sql.Test.Harness</id>
+    <version>0.1</version>
+    <title>Fourth.Sql.Test.Harness</title>
+    <authors>kackroyd and tpallister</authors>
+    <owners>tpallister</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A SQL Testing Harness</description>
+    <releaseNotes>N/A</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>MrBombastic</tags>
+  </metadata>
+</package>
